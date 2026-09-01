@@ -20,19 +20,19 @@ After setup, test compilation:
    ```
 3. Compile the code:
    ```bash
-   g++ main.cpp -o main.exe
+   g++ main.cpp
    ```
 4. Run the program:
 
    In **Command Prompt**:
    ```bat
-   main.exe
+   a.exe
    ```
 
    In **PowerShell** you must include the `.\` prefix, because PowerShell does
    not run programs from the current folder by default:
    ```powershell
-   .\main.exe
+   .\a.exe
    ```
 ---
 
