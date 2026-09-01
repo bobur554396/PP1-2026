@@ -53,11 +53,11 @@ xcode-select --install
    ```
 3. Compile the code:
    ```bash
-   g++ main.cpp -o main
+   g++ main.cpp
    ```
 4. Run the program:
    ```bash
-   ./main
+   ./a.out
    ```
 
 ---
@@ -76,11 +76,11 @@ sudo apt install g++
    ```
 3. Compile the code:
    ```bash
-   g++ main.cpp -o main
+   g++ main.cpp
    ```
 4. Run the program:
    ```bash
-   ./main
+   ./a.out
    ```
 
 ---
