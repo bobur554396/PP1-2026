@@ -1,10 +1,10 @@
-# 🚀 How to Compile and Run C++ Code from Terminal
+# How to Compile and Run C++ Code from Terminal
 
 Use the following steps to compile and run C++ programs on different operating systems using the terminal.
 
 ---
 
-## 🪟 Windows (using MinGW)
+## Windows (using MinGW)
 
 1. 📦 [Download MinGW (mingw64tdm.7z)](https://www.dropbox.com/scl/fi/tqr1y8ut31lfkapgsbicp/mingw64tdm.7z?rlkey=qhng07c0014udgrransk6jc1j&e=1&dl=0)
 2. 🗂 Extract it to the root of your drive (e.g., `C:\` or `D:\`)
@@ -36,7 +36,7 @@ After setup, test compilation:
    ```
 ---
 
-## 🍏 Mac OS
+## Mac OS
 
 > ✅ First-time setup may require installing command-line tools:
 ```bash
@@ -62,7 +62,7 @@ xcode-select --install
 
 ---
 
-## 🐧 Linux
+## Linux
 
 > ✅ Most Linux distributions come with `g++` pre-installed. If not, install it using:
 ```bash
@@ -86,7 +86,7 @@ sudo apt install g++
 ---
 
 
-## ✅ Example Code (main.cpp)
+## Example Code (main.cpp)
 
 ```cpp
 #include <iostream>

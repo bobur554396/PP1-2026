@@ -1,10 +1,10 @@
-# 💻 Terminal Basics for Windows, Linux, and macOS
+# Terminal Basics for Windows, Linux, and macOS
 
 This guide introduces basic terminal (command line) commands for navigating and managing files on **Windows (CMD/PowerShell)**, **Linux**, and **macOS**.
 
 ---
 
-## 🪟 WINDOWS (Command Prompt or PowerShell)
+## WINDOWS (Command Prompt or PowerShell)
 
 | Command | Description |
 |--------|-------------|
@@ -23,7 +23,7 @@ This guide introduces basic terminal (command line) commands for navigating and 
 
 ---
 
-## 🐧 LINUX (Terminal)
+## LINUX (Terminal)
 
 | Command | Description |
 |--------|-------------|
@@ -39,7 +39,7 @@ This guide introduces basic terminal (command line) commands for navigating and 
 
 ---
 
-## 🍏 Mac OS (Terminal)
+## Mac OS (Terminal)
 
 💡 Mac OS uses the same terminal commands as Linux (based on UNIX):
 
@@ -66,7 +66,7 @@ This guide introduces basic terminal (command line) commands for navigating and 
 
 ---
 
-## ✅ Summary
+## Summary
 
 | Action | Windows | Linux/macOS |
 |--------|---------|-------------|
