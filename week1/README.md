@@ -14,7 +14,7 @@ In addition, students will become familiar with compiling and running C++ progra
 
 ### 2.1 Setup C++ Compilation Environment
 
-Follow the platform-specific instructions in the [C++ Compilation Guide](cpp%20compile%20guide.md) provided in this repository.
+Follow the platform-specific instructions in the [C++ Compilation Guide](../tools/cpp%20compile%20guide.md) provided in this repository.
 
 You must be able to:
 
