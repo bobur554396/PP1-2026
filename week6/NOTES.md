@@ -2,22 +2,22 @@
 
 ## Topics
 
-- [ ] 1. 1D array sort, reverse
-- [ ] 2.1 Infinite loops
-- [ ] 2.2 Nested loops
-- [ ] 2.3 Multiplication table
-- [ ] 3. 2D array (matrix), declaration, MAXN
-- [ ] 4. Initializing 2D arrays
-- [ ] 5. Accessing elements
-- [ ] 6. Input, output
-- [ ] 7. freopen
-- [ ] 8. Table of multiplication in a matrix
-- [ ] 9. Max element in matrix
-- [ ] 10. Eye (1, 0)
-- [ ] 11. Eye (1, 2, 3)
-- [ ] 12. Opposite eye (1, 0)
+- [x] 1. 1D array sort, reverse
+- [x] 2.1 Infinite loops
+- [x] 2.2 Nested loops
+- [x] 2.3 Multiplication table
+- [x] 3. 2D array (matrix), declaration, MAXN
+- [x] 4. Initializing 2D arrays
+- [x] 5. Accessing elements
+- [x] 6. Input, output
+- [x] 7. freopen
+- [x] 8. Table of multiplication in a matrix
+- [x] 9. Max element in matrix
+- [x] 10. Eye (1, 0)
+- [x] 11. Eye (1, 2, 3)
+- [x] 12. Opposite eye (1, 0)
 - [ ] 13. Opposite eye (1, 2, 3)
-- [ ] 14.1 Symmetric with bool
+- [x] 14.1 Symmetric with bool
 - [ ] 14.2 Symmetric with return
 - [ ] 14.3 Symmetric with counter
 - [ ] 15. Max, min with location (n x m)
