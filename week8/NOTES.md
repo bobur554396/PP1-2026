@@ -2,34 +2,34 @@
 
 ## Topics
 
-- [ ] 1. What is a string
-- [ ] 2. String operations overview
-- [ ] 3.1 First string program
-- [ ] 3.2 Initialize string (with constructor)
-- [ ] 3.3 size, length, empty
-- [ ] 3.4 Copy a string from one to another
-- [ ] 3.5 Comparing for equality, lexicographical order
-- [ ] 3.6 Concatenation (+, +=)
-- [ ] 3.7 Accessing each element by loop
-- [ ] 3.8 Char to number (ASCII, `c - '0'`)
-- [ ] 3.9 front, back
-- [ ] 3.10 begin, end, iterators
-- [ ] 3.11 find, string::npos
-- [ ] 3.12 Is the second string inside the first
-- [ ] 3.13 Count substring occurrences (overlapping or not)
-- [ ] 3.14 getline, and cin.ignore after `cin >> n`
-- [ ] 3.15 substr
-- [ ] 3.16 erase
-- [ ] 3.17 append, insert
+- [x] 1. What is a string
+- [x] 2. String operations overview
+- [x] 3.1 First string program
+- [x] 3.2 Initialize string (with constructor)
+- [x] 3.3 size, length, empty
+- [x] 3.4 Copy a string from one to another
+- [x] 3.5 Comparing for equality, lexicographical order
+- [x] 3.6 Concatenation (+, +=)
+- [x] 3.7 Accessing each element by loop
+- [x] 3.8 Char to number (ASCII, `c - '0'`)
+- [x] 3.9 front, back
+- [x] 3.10 begin, end, iterators
+- [x] 3.11 find, string::npos
+- [x] 3.12 Is the second string inside the first
+- [x] 3.13 Count substring occurrences (overlapping or not)
+- [x] 3.14 getline, and cin.ignore after `cin >> n`
+- [x] 3.15 substr
+- [x] 3.16 erase
+- [x] 3.17 append, insert
 - [ ] 3.18 Doubled chars in sequence
 - [ ] 3.19 Palindrome with iterators
-- [ ] 3.20 Palindrome with bool
+- [x] 3.20 Palindrome with bool
 - [ ] 3.21 Palindrome with return
 - [ ] 3.22 Palindrome with left and right pointers
 - [ ] 3.23 Palindrome by reversing
-- [ ] 3.24 stringstream: build mixed text
-- [ ] 3.25 stringstream: extract mixed types
-- [ ] 3.26 stringstream: count words
+- [x] 3.24 stringstream: build mixed text
+- [x] 3.25 stringstream: extract mixed types
+- [x] 3.26 stringstream: count words
 - [ ] 3.27 stringstream: parse int and double
 - [ ] 3.28 stoi, stod, to_string
 - [ ] 4. Summary table
