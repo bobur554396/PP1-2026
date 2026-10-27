@@ -2,23 +2,23 @@
 
 ## Topics
 
-- [ ] 1. What is a function, why we need them
-- [ ] 2.1 sort, reverse (`<algorithm>`)
-- [ ] 2.2 tolower, toupper (`<cctype>`), they return int
-- [ ] 2.3 isalpha, isdigit, isalnum, ispunct
-- [ ] 2.4 sqrt, pow (`<cmath>`), max, min (`<algorithm>`)
-- [ ] 3.1 Declaration and definition, prototype before main
-- [ ] 3.2 Function parameters, parameter vs argument
-- [ ] 3.3 Types of functions: returning a value, void
-- [ ] 3.4 Local vs global variables, scope
-- [ ] 4.1 hello
-- [ ] 4.2 hello with a parameter
-- [ ] 4.3 sum of two
-- [ ] 4.4 max of two
-- [ ] 4.5 my power, negative exponent
+- [x] 1. What is a function, why we need them
+- [x] 2.1 sort, reverse (`<algorithm>`)
+- [x] 2.2 tolower, toupper (`<cctype>`), they return int
+- [x] 2.3 isalpha, isdigit, isalnum, ispunct
+- [x] 2.4 sqrt, pow (`<cmath>`), max, min (`<algorithm>`)
+- [x] 3.1 Declaration and definition, prototype before main
+- [x] 3.2 Function parameters, parameter vs argument
+- [x] 3.3 Types of functions: returning a value, void
+- [x] 3.4 Local vs global variables, scope
+- [x] 4.1 hello
+- [x] 4.2 hello with a parameter
+- [x] 4.3 sum of two
+- [x] 4.4 max of two
+- [x] 4.5 my power, negative exponent
 - [ ] 4.6 factorial
-- [ ] 4.7 isPrime
-- [ ] 4.8 toUpper, toLower, isDigit written by hand
+- [x] 4.7 isPrime
+- [x] 4.8 toUpper, toLower, isDigit written by hand
 - [ ] 5. Summary table
 - [ ] 6. Best practices
 - [ ] Appendix A as lab and self-study material (by value, by reference, arrays, overloading)
