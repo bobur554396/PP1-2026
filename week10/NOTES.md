@@ -2,9 +2,9 @@
 
 ## Topics
 
-- [ ] 1. What is STL: containers, algorithms, iterators, functions
-- [ ] 2. Containers overview, which one to pick
-- [ ] 3.1 Vector key functions
+- [x] 1. What is STL: containers, algorithms, iterators, functions
+- [x] 2. Containers overview, which one to pick
+- [x] 3.1 Vector key functions
 - [ ] 3.2 Creating a vector: `v`, `v(n)`, `v(n, x)`, `{list}`
 - [ ] 3.3 Read n elements with push_back
 - [ ] 3.4 `v[i]` versus `v.at(i)`
